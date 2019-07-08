@@ -1,6 +1,10 @@
+## Article (in polish)
+
+https://sharepointpoland.wordpress.com/2019/07/08/spfx-cookies-extension/
+
 ## cookie-consent-extension
 
-This is where you include your WebPart documentation.
+Before you start to develop, remember to change serve.JSON parameters and URLs to your SharePoint Online.
 
 ### Building the code
 
@@ -8,19 +12,5 @@ This is where you include your WebPart documentation.
 git clone the repo
 npm i
 npm i -g gulp
-gulp
+gulp serve
 ```
-
-This package produces the following:
-
-* lib/* - intermediate-stage commonjs build artifacts
-* dist/* - the bundled script, along with other resources
-* deploy/* - all resources which should be uploaded to a CDN.
-
-### Build options
-
-gulp clean - TODO
-gulp test - TODO
-gulp serve - TODO
-gulp bundle - TODO
-gulp package-solution - TODO
