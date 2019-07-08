@@ -1,0 +1,23 @@
+
+.app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: orange;
+    color: white;
+    height:60px;
+    text-align:center;
+
+    .text{
+        line-height:2.5;
+        font-weight:bold;
+    }
+
+    .btn{
+        color:orange;
+        background: white;
+        padding: 10px 10px 10px 10px;
+        border:none;
+        margin:5px 5px 5px 5px;
+    }
+}

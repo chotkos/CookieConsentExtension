@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="CookieConsent"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="5811e0dd-d719-4219-a5a9-a6130b5bb7f5"
+        Properties="{&quot;testMessage&quot;:&quot;Test message&quot;}">
+    </ClientSideComponentInstance>
+</Elements>
